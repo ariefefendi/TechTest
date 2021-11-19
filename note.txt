@@ -1,0 +1,15 @@
+BONUS CASE
+
+dibuat dengan menggunakan konsep router sederhana menggunakan php
+
+php versi kami = PHP Version 5.6.33
+
+dalam source code project BONUS_CASE sudah kita sertakan jawaban LOGICAL_TEST dalam beberapa menu tampilan.
+
+untuk penggunaan BONUS_CASE project CRUD bisa login dengan : 
+username = admin
+password = admin
+
+untuk menuju ke jawaban LOGICAL_TEST bisa langsung klik button "Jawaban Test".
+
+
